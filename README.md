@@ -1,7 +1,6 @@
 # BMI Calculator with React
 
-This is a simple BMI Calculator built using React. It allows users to input their height and weight to calculate their BMI and provide a result based on the WHO (World Health Organization) standards.
-
+Introducing the BMI Calculator with React, a user-friendly tool designed to calculate Body Mass Index (BMI) based on height and weight inputs.By leveraging this calculator, users can effortlessly monitor their BMI, a crucial measure of health and wellness. Whether you're on a fitness journey or simply interested in tracking your body composition, our BMI Calculator offers a seamless experience.
 ## Installation
 
 To install this project, follow these steps:
